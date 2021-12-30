@@ -1,0 +1,16 @@
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.csproj.AssemblyReference.cache
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.AssemblyInfoInputs.cache
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.AssemblyInfo.cs
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\exampleCollections.exe
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\exampleCollections.deps.json
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\exampleCollections.runtimeconfig.json
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\exampleCollections.runtimeconfig.dev.json
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\exampleCollections.dll
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\ref\exampleCollections.dll
+G:\dotnet\Console application\exampleCollections\bin\Debug\net5.0\exampleCollections.pdb
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.dll
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\ref\exampleCollections.dll
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.pdb
+G:\dotnet\Console application\exampleCollections\obj\Debug\net5.0\exampleCollections.genruntimeconfig.cache
